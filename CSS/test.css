@@ -1,0 +1,14 @@
+p{
+    color: crimson;
+}
+.three{
+    color: black;
+    border: black 1px solid;
+    border-radius: 20px;
+    /*margin-left: 60px;*/
+    padding: 6px;
+    border-radius: 1px;
+    width: 65%;
+    height: 6%;
+
+}

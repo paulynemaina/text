@@ -1,0 +1,46 @@
+body{
+    background-color: cadetblue;
+    text-align:left;
+    /*
+    */
+padding-right: 30px;
+    padding-left: 30px;
+
+}
+a{
+    text-decoration: none;
+}
+
+p{
+    color: crimson;
+
+}
+
+.one{
+    color: black;
+    border: blue 1px solid;
+    border-radius: 1px;
+    /*margin-left: 56px;*/
+    padding: 4px;
+    border-radius: 25px;
+    width: 50%;
+    height: 6%;
+}
+{
+#one
+background-colour: black;
+}
+
+.two{
+    /*background-color black:*/
+
+
+
+
+}
+a:hover{
+    color: olive;
+ border-bottom: saddlebrown 1px solid;
+    font-size: 25px;
+
+}

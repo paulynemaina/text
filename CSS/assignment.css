@@ -1,0 +1,22 @@
+body{
+background-color: black;
+    color: white;
+}
+textarea{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
+input{
+    border: black 20px solid;
+    border-radius: 25%;
+}
+iframe{
+    -webkit-filter: grayscale();
+}
+button{
+    background-color: black;
+    color: white;
+    border: black 20px solid;
+    border-radius: 25px;
+}
